@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Archivos de audio > 100 MB (GitHub bloquea archivos mayores a 100 MB sin Git LFS).
+# Respaldados de forma completa y segura en C:\Backups_Globus\COMUNICACIONES_full.zip
+audios/Hector_Lavoe_-_El_Cantante_(salsa)-COMPLETO.wav
+audios/Vivaldi-El_Invierno-Las_cuatro_estaciones-4s.wav
+audios/Vivaldi-El_Invierno-Las_cuatro_estaciones-COMPLETO.wav
